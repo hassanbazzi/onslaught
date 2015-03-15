@@ -1,0 +1,20 @@
+{
+  "name": "ayahgulp",
+  "version": "0.0.0",
+  "authors": [
+    "Hassan Bazzi <info@websiteme.org>"
+  ],
+  "description": "This is AYAH's official gulp package",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "zurb/bower-foundation"
+  }
+
+}
